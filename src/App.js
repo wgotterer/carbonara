@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import Advert from "./components/Advert";
-import "./App.css";
+import "./styling/App.css";
 import ItemsList from "./components/ItemsList";
 
 //  offsetTop returns the distance of the outer border of the current element 
@@ -17,7 +17,6 @@ function App() {
   return (
     <div className="app-container">
        <div className="banner-container">
-        Carbonara
       <Advert executeScroll={executeScroll} />
       <ItemsList myRef={myRef}/>
       </div>

@@ -1,14 +1,4 @@
-
-.banner-container {
-    width: 375px;
-    height: 1539px;
-    margin: 0 auto;
-    padding: 10px;
-    background-color: rgb(224, 217, 217);
-    
-  }
-  
-  .advert-container{
+.advert-container{
     display: flex;
     flex-direction: row-reverse;
   background-color: rgb(213, 228, 202);

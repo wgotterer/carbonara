@@ -7,8 +7,8 @@ function ItemCard(props) {
       <button className="item-button">Shop now</button>
       <div className="info-container">
         <div className="item-title">{props.title}</div>
-        <div className="item-description">description</div>
-        <div className="item-price">2.50</div>
+        <div className="item-description">{props.description}</div>
+        <div className="item-price">{props.price}</div>
       </div>
       <img
         className="item-pic"

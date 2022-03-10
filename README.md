@@ -11,6 +11,10 @@ and the intricacies of how css works. All in all, I hope that I can continue my 
 Again, I realize that I might be going up against candidates that have experience, but I'm ready to put in the work and
 believe I will be an asset to the team! 
 
+
+https://user-images.githubusercontent.com/88294702/157760072-605d2cb9-9ae3-4b2e-9050-80f8a2185575.mov
+
+
 ### `npm start`
 
 Runs the app in the development mode.\

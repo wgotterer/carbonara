@@ -3,12 +3,14 @@ import Advert from "./components/Advert";
 import "./App.css";
 import ItemsList from "./components/ItemsList";
 
+//  offsetTop returns the distance of the outer border of the current element 
 const scrollToRef = (ref) => window.scrollTo(0, ref.current.offsetTop)   
-// General scroll to element function
+
 
 
 function App() {
 
+  // store a value that does not cause a re-render when updated
   const myRef = useRef(null)
   const executeScroll = () => scrollToRef(myRef)
 

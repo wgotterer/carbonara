@@ -1,53 +1,52 @@
 import Item from "../models/item"
-import beerPic from "../pics/beer.png"
-import whiteWine from "../pics/whitewine.jpeg"
+
 
 const ITEMS = [
     new Item(
         'b1',
-        {beerPic},
+        "https://prod-discovery.edx-cdn.org/media/course/image/8a140470-bc70-4f7f-a9aa-df0284469b0b-8fd792a7b326.small.jpeg",
         'Beer',
         'Beer A info.',
         2.99
     ),
     new Item(
         'b2',
-        {beerPic},
+        "https://prod-discovery.edx-cdn.org/media/course/image/8a140470-bc70-4f7f-a9aa-df0284469b0b-8fd792a7b326.small.jpeg",
         'Beer',
         'Beer B info.',
         2.99
     ),
     new Item(
         'b3',
-        {beerPic},
+        "https://prod-discovery.edx-cdn.org/media/course/image/8a140470-bc70-4f7f-a9aa-df0284469b0b-8fd792a7b326.small.jpeg",
         'Beer',
         'Beer C info.',
         2.99
     ),
     new Item(
         'b4',
-        {beerPic},
+        "https://prod-discovery.edx-cdn.org/media/course/image/8a140470-bc70-4f7f-a9aa-df0284469b0b-8fd792a7b326.small.jpeg",
         'Beer',
         'Beer D info.',
         2.99
     ),
     new Item(
         'w5',
-        {whiteWine},
+        "https://deli96.ch/modules/jscomposer/uploads/white-wine-PDJWEJV.png",
         'White wine',
         'White wine info.',
         2.99
     ),
     new Item(
         'w6',
-        {whiteWine},
+        "https://deli96.ch/modules/jscomposer/uploads/white-wine-PDJWEJV.png",
         'White wine',
         'White wine info.',
         2.99
     ),
     new Item(
         'w7',
-        {whiteWine},
+        "https://deli96.ch/modules/jscomposer/uploads/white-wine-PDJWEJV.png",
         'White wine',
         'White wine info.',
         2.99

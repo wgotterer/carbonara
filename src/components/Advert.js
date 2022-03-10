@@ -1,4 +1,3 @@
-
 import redWine from "../pics/red-wine.png"
 
 
@@ -17,7 +16,7 @@ import redWine from "../pics/red-wine.png"
           <div className="flex-container">
             <div>
               <div className="advert-text-container">
-                40$ off your valentines order this February.
+                40% off your valentines order this February.
               </div>
               <div className="button-container">
                 <button onClick={props.executeScroll} className="shop-button">Shop now</button>

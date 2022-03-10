@@ -4,12 +4,13 @@ import ItemCard from './ItemCard'
 
 function ItemsList(props) {
 
+    console.log(ITEMS[0].picture)
 
     const beerFilteredList = ITEMS.filter(item => item.title === "Beer")
 
     const beerCards = beerFilteredList.map(card => {
         return(
-            <ItemCard title={card.title}/>
+            <ItemCard title={card.title} picture={card.picture}/>
         )
     })
 
@@ -17,7 +18,7 @@ function ItemsList(props) {
 
     const wineCards = wineFilteredList.map(card => {
         return(
-            <ItemCard title={card.title}/>
+            <ItemCard title={card.title} picture={card.picture}/>
         )
     })
   

@@ -14,11 +14,9 @@ believe I will be an asset to the team!
 
 https://user-images.githubusercontent.com/88294702/157760072-605d2cb9-9ae3-4b2e-9050-80f8a2185575.mov
 
+## How to run app
 
-### `npm start`
+### npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.

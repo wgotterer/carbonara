@@ -2,7 +2,7 @@ import React from 'react'
 import ITEMS from '../data/dummy-data'
 import ItemCard from './ItemCard'
 
-function ItemsList() {
+function ItemsList(props) {
 
 
     const beerFilteredList = ITEMS.filter(item => item.title === "Beer")
@@ -23,9 +23,9 @@ function ItemsList() {
   
     return (
         <div>
-            <h1>Beer</h1>
+            <h1 >Beer</h1>
             {beerCards}
-            <h1>White Wine</h1>
+            <h1 ref={props.myRef} >White Wine</h1>
             {wineCards}
         </div>
     )

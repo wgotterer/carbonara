@@ -4,7 +4,7 @@ import "../styling/ItemCard.css"
 function ItemCard(props) {
   return (
     <div className="item-container">
-      <button className="item-button">Shop now</button>
+      <button className="item-button">Buy now</button>
       <div className="info-container">
         <div className="item-title">{props.title}</div>
         <div className="item-description">{props.description}</div>

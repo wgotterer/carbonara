@@ -9,7 +9,7 @@ function Advert(props) {
           <img src={redWine} alt="red wine" />
         </div>
         <div className="flex-container">
-          <div>
+        
             <div className="advert-text-container">
               40% off your valentines order this February.
             </div>
@@ -18,7 +18,6 @@ function Advert(props) {
                 Shop now
               </button>
             </div>
-          </div>
         </div>
       </div>
     </>

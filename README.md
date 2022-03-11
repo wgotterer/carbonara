@@ -2,7 +2,7 @@
 
 ## Takeaways
 
-As I am just beginning to learn Typescript I felt more comfortable creating my own React app and building out the feature with only React. 
+As I am just beginning to learn Typescript I felt more comfortable creating my own React app and building out the feature with vanilla React. 
 I built out 3 components that could be reusable in the future along with 3 css files unique for each component. 
 I simulated fetching data from the back-end by using a constructor with "dummy-data". 
 Some challenges I ran into were configuring the flex boxes. My bootcamp primarily focused on functionality and not on styling, 

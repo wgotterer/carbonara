@@ -12,7 +12,9 @@ Again, I realize that I might be going up against candidates that have experienc
 believe I will be an asset to the team! 
 
 
-https://user-images.githubusercontent.com/88294702/157760072-605d2cb9-9ae3-4b2e-9050-80f8a2185575.mov
+https://user-images.githubusercontent.com/88294702/157783955-bc0c49e0-98a1-4fb1-bb8d-21238c97c774.mov
+
+
 
 ## How to run app
 

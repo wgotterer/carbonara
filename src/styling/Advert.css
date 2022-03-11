@@ -1,6 +1,6 @@
 .advert-container{
-    display: flex;
-    flex-direction: row-reverse;
+  display: flex;
+  flex-direction: row-reverse;
   background-color: rgb(213, 228, 202);
   width: 376px;
   height: 210px;
@@ -49,10 +49,10 @@
   }
   
   .shop-button {
-    background: #B00000;
+  background: #B00000;
   border-radius: 40px;
   color: #FFFFFF;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 11px;

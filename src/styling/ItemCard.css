@@ -20,7 +20,7 @@
   }
   
   .item-title{
-    font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -30,7 +30,7 @@
   }
   
   .item-description{
-      flex-grow: 1;
+  flex-grow: 1;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -40,7 +40,6 @@
   }
   
   .item-price{
-
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -50,16 +49,16 @@
   }
 
   .price-button-container{
-      justify-self: flex-end;
-      display: flex;
-      align-items: baseline;
-      flex-direction: row;
-      justify-content: space-between;
+    justify-self: flex-end;
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    justify-content: space-between;
   }
   
   .item-button{
    
-    padding: 6px 14px;
+  padding: 6px 14px;
   background: #56BA08;
   border-radius: 25px;
   font-family: 'Poppins', sans-serif;
@@ -74,6 +73,5 @@
   }
   
   .item-pic{
-    
     border-radius: 5px;
   }

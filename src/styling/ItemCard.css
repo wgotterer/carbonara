@@ -4,8 +4,7 @@
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-around;
-    width: 375px;
-    height: 166px;
+    margin-bottom: 10px;
     left: -1px;
     top: 458px;
     background: #FFFFFF;
@@ -14,13 +13,14 @@
   
   .info-container{
     display: flex;
+    flex-grow: 1;
     flex-direction: column;
     justify-content: flex-start;
-    padding-top: 20px;
+    padding-left: 10px;
   }
   
   .item-title{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -30,12 +30,8 @@
   }
   
   .item-description{
-    left: 44.27%;
-  right: 9.33%;
-  top: 30.72%;
-  bottom: 40.96%;
-  
-  font-family: 'Poppins';
+      flex-grow: 1;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
@@ -44,26 +40,29 @@
   }
   
   .item-price{
-    padding-top: 70px;
-    left: 45.07%;
-  right: 43.2%;
-  top: 78.31%;
-  bottom: 9.64%;
-  
-  font-family: 'Poppins';
+
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 15px;
   line-height: 20px;
   color: #24232D;
   }
+
+  .price-button-container{
+      justify-self: flex-end;
+      display: flex;
+      align-items: baseline;
+      flex-direction: row;
+      justify-content: space-between;
+  }
   
   .item-button{
-    align-self: flex-end;
+   
     padding: 6px 14px;
   background: #56BA08;
   border-radius: 25px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 17.5px;
@@ -77,5 +76,4 @@
   .item-pic{
     
     border-radius: 5px;
-    margin-top: 10px;
   }

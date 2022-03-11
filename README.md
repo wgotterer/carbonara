@@ -11,9 +11,7 @@ and the intricacies of how css works. All in all, I hope that I can continue my 
 Again, I realize that I might be going up against candidates that have experience, but I'm ready to put in the work and
 believe I will be an asset to the team! 
 
-
-https://user-images.githubusercontent.com/88294702/157783955-bc0c49e0-98a1-4fb1-bb8d-21238c97c774.mov
-
+https://user-images.githubusercontent.com/88294702/157877172-eadd75d6-1a1e-4506-8d9a-4ac9b11a18f9.mov
 
 
 ## How to run app

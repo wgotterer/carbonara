@@ -1,5 +1,5 @@
 import redWine from "../pics/red-wine.png";
-import "../styling/Advert.css"
+import "../styling/Advert.css";
 
 function Advert(props) {
   return (

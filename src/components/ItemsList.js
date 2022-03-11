@@ -3,7 +3,6 @@ import ITEMS from "../data/dummy-data";
 import ItemCard from "./ItemCard";
 
 function ItemsList(props) {
- 
   const beerFilteredList = ITEMS.filter((item) => item.title === "Beer");
 
   const beerCards = beerFilteredList.map((card) => {

@@ -1,11 +1,11 @@
 class Item {
-    constructor(id, picture, title, description, price){
-        this.id = id
-        this.picture = picture
-        this.title = title
-        this.description = description
-        this.price = price
-    }
+  constructor(id, picture, title, description, price) {
+    this.id = id;
+    this.picture = picture;
+    this.title = title;
+    this.description = description;
+    this.price = price;
+  }
 }
 
-export default Item
+export default Item;

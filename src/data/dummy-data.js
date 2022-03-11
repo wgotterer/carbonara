@@ -6,7 +6,7 @@ const ITEMS = [
         'b1',
         "https://prod-discovery.edx-cdn.org/media/course/image/8a140470-bc70-4f7f-a9aa-df0284469b0b-8fd792a7b326.small.jpeg",
         'Beer',
-        'Beer A info.',
+        'Beer A info. Beer A info. Beer A info. Beer A info. Beer A info. Beer A info.',
         2.99
     ),
     new Item(
@@ -20,7 +20,7 @@ const ITEMS = [
         'b3',
         "https://prod-discovery.edx-cdn.org/media/course/image/8a140470-bc70-4f7f-a9aa-df0284469b0b-8fd792a7b326.small.jpeg",
         'Beer',
-        'Beer C info.',
+        'Beer C info. Beer C info. Beer C info. Beer C info. Beer C info. Beer C info. Beer C info. Beer C info. Beer C info.',
         2.99
     ),
     new Item(
